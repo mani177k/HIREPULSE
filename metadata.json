@@ -1,0 +1,6 @@
+{
+  "name": "HirePulse - Full-Stack Job Portal & ATS",
+  "description": "Comprehensive full-stack job portal and applicant tracking system featuring job posting, candidate application submission, recruitment pipeline, and interactive application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
